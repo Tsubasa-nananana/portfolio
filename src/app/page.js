@@ -15,7 +15,6 @@ export default function Home() {
 
       {/* 連絡先・リンク */}
       <section className="text-center mb-16">
-        <p className="mb-1">GitHub : <a href="https://github.com/tsubasa-nakajima" className="underline hover:text-[#7e5bef]" target="_blank" rel="noopener noreferrer">tsubasa-nakajima</a></p>
         <p>Mail : cits25009@g.nihon-u.ac.jp</p>
       </section>
 
@@ -70,8 +69,25 @@ export default function Home() {
               </div>
             </div>
           </li>
+          <li>
+            <div className="flex">
+              <span className="mr-2">・</span>
+              <div>
+                <p className="mb-1">中嶋 翼, 森 雅也, 大前 佑斗, 豊谷 純, 萩原 謙, 山下 裕玄</p>
+                <a
+                  href="https://nuais.blogspot.com/2024/10/symposium2025.html"
+                  className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  CNN による胃がん画像の2 クラス分類（ポスター）
+                </a>
+                <p className="text-sm text-gray-600 mt-1">日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8</p>
+              </div>
+            </div>
+          </li>
         </ul>
       </section>
     </main>
-  )
+  );
 }
