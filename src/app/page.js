@@ -14,7 +14,7 @@ export default function Home() {
       </div>
 
       {/* 連絡先・リンク */}
-      <section className="text-center py-8">
+      <section className="text-center mt-12">
         <p>Mail : cits25009@g.nihon-u.ac.jp</p>
       </section>
 
