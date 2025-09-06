@@ -30,23 +30,12 @@ export default function Home() {
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">💻 使用技術・スキル / Skills</h2>
         <p>Python / TensorFlow</p>
       </section>
+  
   　　　{/* 研究キーワード */}
 　　　<section className="mb-16 text-center">
   　　　<h2 className="text-2xl font-semibold mb-3 border-b pb-2">🔑 研究キーワード / Research Keywords</h2>
-  　　　<div className="flex flex-wrap justify-center gap-3 mt-4">
-    　　　{["医療AI", "深層学習（Deep Learning）", "画像分類（Image Classification）"].map(
-     　　　 (kw, i) => (
-      　　　  <span
-      　　　    key={i}
-      　　　    className="px-3 py-1 text-sm bg-gray-100 text-gray-700 rounded-full shadow-sm"
-     　　　   >
-      　　　    {kw}
-    　　　    </span>
-   　　　   )
-  　　　  )}
-　　　  </div>
-　　　</section>
-
+    　　　<p>医療AI, 深層学習（Deep Learning）, 画像分類（Image Classification）</p>
+　　　　</section>
 
       {/* 論文・発表実績 */}
       <section className="mb-16 text-center">
