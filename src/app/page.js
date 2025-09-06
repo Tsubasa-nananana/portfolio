@@ -35,6 +35,23 @@ export default function Home() {
       <section className="mb-16 text-center">
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">📄 論文・発表実績 / Publications</h2>
         <ul className="list-none text-left max-w-3xl mx-auto space-y-6">
+        <li>
+            <div className="flex">
+              <span className="mr-2">・</span>
+              <div>
+                <p className="mb-1">中嶋翼, 森雅也, 中村颯太, 大前佑斗, 山下裕玄, 萩原謙, 豊谷純</p>
+                <a
+                  href="https://soft-cr.org/fss/2025/files/FSS2025_Program_detail_v10.pdf"
+                  className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                 深層学習を用いた胃癌腹膜播種の診断における実用上の汎化性能に向けたサンプルサイズの推定
+                </a>
+                <p className="text-sm text-gray-600 mt-1">第41回 ファジィ システム シンポジウム / FSS2025 2025.9.4</p>
+              </div>
+            </div>
+          </li>
           <li>
             <div className="flex">
               <span className="mr-2">・</span>
