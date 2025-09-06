@@ -30,8 +30,8 @@ export default function Home() {
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">💻 使用技術・スキル / Skills</h2>
         <p>Python / TensorFlow</p>
       </section>
-  
-  　　　{/* 研究キーワード */}
+
+      {/* 研究キーワード */}
 　　　 <section className="py-8 text-center">
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">🔑 研究キーワード / Research Keywords</h2>
         <p>医療AI / 深層学習（Deep Learning） / 画像分類（Image Classification）</p>
