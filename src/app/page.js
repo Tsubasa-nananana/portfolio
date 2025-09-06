@@ -35,7 +35,7 @@ export default function Home() {
 　　　 <section className="py-8 text-center">
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">🔑 研究キーワード / Research Keywords</h2>
         <p>医療AI / 深層学習（Deep Learning） / 画像分類（Image Classification）</p>
-　　　　</section>
+      </section>
 
       {/* 論文・発表実績 */}
       <section className="py-8 text-center">
