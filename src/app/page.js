@@ -14,31 +14,31 @@ export default function Home() {
       </div>
 
       {/* 連絡先・リンク */}
-      <section className="text-center mb-16">
+      <section className="text-center py-8">
         <p>Mail : cits25009@g.nihon-u.ac.jp</p>
       </section>
 
       {/* 学歴 */}
-      <section className="py-12 text-center">
+      <section className="py-8 text-center">
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">🎓 学歴 / Education</h2>
         <p className="mb-2">日本大学 生産工学部 マネジメント工学科 卒業</p>
         <p>日本大学大学院 生産工学研究科 マネジメント工学専攻 修士課程 在籍</p>
       </section>
 
       {/* 使用技術・スキル */}
-      <section className="py-12 text-center">
+      <section className="py-8 text-center">
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">💻 使用技術・スキル / Skills</h2>
         <p>Python / TensorFlow</p>
       </section>
   
   　　　{/* 研究キーワード */}
-　　　<section className="py-12text-center">
+　　　<section className="py-8 text-center">
   　　　<h2 className="text-2xl font-semibold mb-3 border-b pb-2">🔑 研究キーワード / Research Keywords</h2>
     　　　<p>医療AI / 深層学習（Deep Learning） / 画像分類（Image Classification）</p>
 　　　　</section>
 
       {/* 論文・発表実績 */}
-      <section className="py-12 text-center">
+      <section className="py-8 text-center">
         <h2 className="text-2xl font-semibold mb-3 border-b pb-2">📄 論文・発表実績 / Publications</h2>
         <ul className="list-none text-left max-w-3xl mx-auto space-y-6">
         <li>
