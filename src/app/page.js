@@ -48,7 +48,7 @@ export default function Home() {
                 >
                  深層学習を用いた胃癌腹膜播種の診断における実用上の汎化性能に向けたサンプルサイズの推定
                 </a>
-                <p className="text-sm text-gray-600 mt-1">第41回 ファジィ システム シンポジウム / FSS2025 2025.9.4</p>
+                <p className="text-sm text-gray-600 mt-1">第41回 ファジィ システム シンポジウム / FSS2025, 2025.9.4</p>
               </div>
             </div>
           </li>
