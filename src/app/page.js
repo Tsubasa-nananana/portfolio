@@ -45,7 +45,7 @@ export default function Home() {
             <div className="flex">
               <span className="mr-2">・</span>
               <div>
-                <p className="mb-1">中嶋翼, 森雅也, 中村颯太, 大前佑斗, 山下裕玄, 萩原謙, 豊谷純</p>
+                <p className="mb-1">中嶋翼, 森雅也, 中村颯汰, 大前佑斗, 山下裕玄, 萩原謙, 豊谷純</p>
                 <a
                   href="https://soft-cr.org/fss/2025/files/FSS2025_Program_detail_v10.pdf"
                   className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
