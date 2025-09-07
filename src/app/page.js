@@ -111,6 +111,29 @@ export default function Home() {
           </li>
         </ul>
       </section>
+
+   {/* メディア */}
+   <section className="py-8 text-center">
+     <h2 className="text-2xl font-semibold mb-3 border-b pb-2">🗞️ メディア / Media</h2>
+     <ul className="list-none text-left max-w-3xl mx-auto space-y-6">
+       <li>
+         <div className="flex">
+           <span className="mr-2">・</span>
+           <div>
+             <a
+               href="https://narashino.keizai.biz/headline/379/"
+               className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
+               target="_blank"
+              rel="noopener noreferrer"
+             >
+               習志野の地域イベントに日大生産工学部生が協力　SNSやAI活用
+             </a>
+             <p className="text-sm text-gray-600 mt-1">習志野経済新聞</p>
+           </div>
+         </div>
+       </li>
+     </ul>
+   </section>
     </main>
   );
 }
