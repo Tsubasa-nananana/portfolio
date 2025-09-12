@@ -106,9 +106,9 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            CNN による胃がん画像の2 クラス分類（ポスター）
+            CNNによる胃がん画像の2クラス分類（ポスター）
           </a>
-          <p className="mb-1">中嶋 翼, 森 雅也, 大前 佑斗, 豊谷 純, 萩原 謙, 山下 裕玄</p>
+          <p className="mb-1">中嶋翼, 森雅也, 大前佑斗, 豊谷純, 萩原謙, 山下裕玄</p>
           <p className="text-sm text-gray-600">日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8</p>
         </div>
       </div>
