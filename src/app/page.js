@@ -48,14 +48,15 @@ export default function Home() {
         <span className="mr-2">・</span>
         <div>
           <a
-      　　　 href="#" 
-      　　　 className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold">
+            href="#"
+            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
             target="_blank"
             rel="noopener noreferrer"
+          >
             内視鏡画像における幽門位置推定モデルの実現可能性に関する検討
           </a>
-          <p className="mb-1">中村颯汰, 中嶋翼,  行木靖人, 森雅也, 萩原謙, 大前佑斗, 豊谷純</p>
-          <p className="text-sm text-gray-600">第59回（令和8年度）日本大学生産工学部学術講演会/ 2026.12.12</p>
+          <p className="mb-1">中村颯汰, 中嶋翼, 行木靖人, 森雅也, 萩原謙, 大前佑斗, 豊谷純</p>
+          <p className="text-sm text-gray-600">第59回（令和8年度）日本大学生産工学部学術講演会 / 2026.12.12</p>
         </div>
       </div>
     </li>
@@ -65,15 +66,16 @@ export default function Home() {
       <div className="flex">
         <span className="mr-2">・</span>
         <div>
-          <a 
-      　　　 href="#" 
-      　　　 className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold">
+          <a
+            href="#"
+            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
             target="_blank"
             rel="noopener noreferrer"
+          >
             腹膜播種係数の自動推定支援に向けたモデル構築に関する基礎的研究
           </a>
           <p className="mb-1">中嶋翼, 行木靖人, 中村颯汰, 森雅也, 萩原謙, 豊谷純</p>
-          <p className="text-sm text-gray-600">第59回（令和8年度）日本大学生産工学部学術講演会/ 2026.12.12</p>
+          <p className="text-sm text-gray-600">第59回（令和8年度）日本大学生産工学部学術講演会 / 2026.12.12</p>
         </div>
       </div>
     </li>
@@ -83,11 +85,12 @@ export default function Home() {
       <div className="flex">
         <span className="mr-2">・</span>
         <div>
-          <a 
-      　　　 href="https://nuais.blogspot.com/2025/12/symposium2026.html" 
-      　　　 className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold">
+          <a
+            href="https://nuais.blogspot.com/2025/12/symposium2026.html"
+            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
             target="_blank"
             rel="noopener noreferrer"
+          >
             ResNetを用いた胃癌腹膜播種画像のクラス分類（ポスター）
           </a>
           <p className="mb-1">豊谷純, 萩原謙, 行木靖人, 中嶋翼, 森雅也, 大前佑斗, 山下裕玄</p>
@@ -101,11 +104,12 @@ export default function Home() {
       <div className="flex">
         <span className="mr-2">・</span>
         <div>
-          <a 
-      　　　 href="https://nuais.blogspot.com/2025/12/symposium2026.html" 
-      　　　 className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold">
+          <a
+            href="https://nuais.blogspot.com/2025/12/symposium2026.html"
+            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
             target="_blank"
             rel="noopener noreferrer"
+          >
             胃癌腹膜播種に対するAI版Peritoneal Cancer Indexモデルの構築
           </a>
           <p className="mb-1">萩原謙, 行木靖人, 中嶋翼, 森雅也, 大前佑斗, 豊谷純, 山下裕玄</p>
@@ -119,11 +123,12 @@ export default function Home() {
       <div className="flex">
         <span className="mr-2">・</span>
         <div>
-          <a 
-      　　　 href="https://nuais.blogspot.com/2025/12/symposium2026.html" 
-      　　　 className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold">
+          <a
+            href="https://nuais.blogspot.com/2025/12/symposium2026.html"
+            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
             target="_blank"
             rel="noopener noreferrer"
+          >
             画像のクラス分類と医療画像への適用事例
           </a>
           <p className="mb-1">豊谷純, 行木靖人, 萩原謙, 中嶋翼, 森雅也, 大前佑斗, 山下裕玄</p>
@@ -137,19 +142,20 @@ export default function Home() {
       <div className="flex">
         <span className="mr-2">・</span>
         <div>
-          <a 
-            href="https://www.cit.nihon-u.ac.jp/wp/wp-content/uploads/2025/08/R7_outline.pdf" 
-            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold">
+          <a
+            href="https://www.cit.nihon-u.ac.jp/wp/wp-content/uploads/2025/08/R7_outline.pdf"
+            className="text-[#7e5bef] underline hover:text-[#5b3cc4] font-semibold"
             target="_blank"
             rel="noopener noreferrer"
+          >
             リテールベーカリーのフードロス削減に向けた機械学習による需要予測モデルの構築
           </a>
           <p className="mb-1">中村颯汰, 相澤秀哉, 竹蓋翔一, 中嶋翼, 森雅也, 豊谷純</p>
-          <p className="text-sm text-gray-600">第58回（令和7年度）日本大学生産工学部学術講演会/ 2025.12.13</p>
+          <p className="text-sm text-gray-600">第58回（令和7年度）日本大学生産工学部学術講演会 / 2025.12.13</p>
         </div>
       </div>
     </li>
-
+  
     <li>
       <div className="flex">
         <span className="mr-2">・</span>
