@@ -231,7 +231,6 @@ export default function Home() {
   </ul>
 </section>
 
-
    {/* メディア */}
    <section className="py-8 text-center">
      <h2 className="text-2xl font-semibold mb-3 border-b pb-2">🗞️ メディア / Media</h2>
