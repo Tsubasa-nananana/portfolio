@@ -155,7 +155,7 @@ export default function Home() {
         </div>
       </div>
     </li>
-  
+
     <li>
       <div className="flex">
         <span className="mr-2">・</span>
