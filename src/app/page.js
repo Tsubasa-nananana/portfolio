@@ -154,7 +154,8 @@ export default function Home() {
           <p className="text-sm text-gray-600">第58回（令和7年度）日本大学生産工学部学術講演会 / 2025.12.13</p>
         </div>
       </div>
-    </li>
+  　</li>
+
     <li>
       <div className="flex">
         <span className="mr-2">・</span>
